@@ -2,34 +2,67 @@
   {
     "ID": "RAY_RB5169",
     "PRODNAME": "RB5169 Optics",
-    "GRAPHNAME": "Black On Transparent White Cursive Ray-Ban",
+    "GRAPHNAME": "Ray-Ban RB5169 Optics Black On Transparent",
     "COST": "179.90",
     "MSRP": "257.00",
     "QTYHAND": "2",
     "QTYBACKORDER": "1",
-    "DESC": "Rectangle Full Frame Acetate 54-16 mm",
+    "DESC": "Prescription Lenses Rectangle Full Frame Polished Black On Transparent Acetate 54-16 mm",
     "BRAND": "Ray-Ban"
   },
   {
     "ID": "RAY_RB7551",
     "PRODNAME": "RB7551 Optics",
-    "GRAPHNAME": "Arista Gold Cursive Ray-Ban",
+    "GRAPHNAME": "Ray-Ban RB7551 Optics Arista Gold",
     "COST": "226.10",
     "MSRP": "323.00",
     "QTYHAND": "3",
     "QTYBACKORDER": "2",
-    "DESC": "Rectangle Half Frame Metal 54-19 mm",
+    "DESC": "Prescription Lenses Rectangle Half Frame Polished Arista Gold Metal 54-19 mm",
     "BRAND": "Ray-Ban"
   },
   {
-    "ID": "OAK_SURFACE_PLATE",
+    "ID": "OAK_SURFACEPLATE",
     "PRODNAME": "Surface Plate",
-    "GRAPHNAME": "Faux Semi-Rimless Stylized O",
-    "COST": "226.10",
-    "MSRP": "323.00",
-    "QTYHAND": "3",
-    "QTYBACKORDER": "2",
-    "DESC": "Rectangle Semi-Rim Frame Titanium No Slip Grip 52-18 mm",
+    "GRAPHNAME": "Oakley Surface Plate Matte Black",
+    "COST": "269.50",
+    "MSRP": "385.00",
+    "QTYHAND": "5",
+    "QTYBACKORDER": "1",
+    "DESC": "Prescription Lenses Rectangle Semi-Rim Frame Matte Black Titanium No Slip Grip 52-18 mm",
     "BRAND": "Oakley"
+  },
+  {
+    "ID": "OAK_HOLBROOK",
+    "PRODNAME": "Holbrook",
+    "GRAPHNAME": "Oakley Holbrook Matte Black",
+    "COST": "190.00",
+    "MSRP": "210.00",
+    "QTYHAND": "1",
+    "QTYBACKORDER": "4",
+    "DESC": "Sunglass Lenses Rectangle Full Frame Matte Black Metal 57-18 mm",
+    "BRAND": "Oakley"
+  },
+  {
+    "ID": "SPE_SHAUN",
+    "PRODNAME": "SHAUN",
+    "GRAPHNAME": "Specsavers SHAUN Clear",
+    "COST": "199.00",
+    "MSRP": "249.00",
+    "QTYHAND": "5",
+    "QTYBACKORDER": "2",
+    "DESC": "Prescription Lenses Round Frame Clear Acetate Dark Grey Checkered Pattern Side 49-19 mm",
+    "BRAND": "Specsavers"
+  },
+  {
+    "ID": "SPE_VICTORIAWF",
+    "PRODNAME": "VICTORIA WF",
+    "GRAPHNAME": "Specsavers VICTORIA WF Teal",
+    "COST": "199.00",
+    "MSRP": "249.00",
+    "QTYHAND": "4",
+    "QTYBACKORDER": "3",
+    "DESC": "Prescription Lenses Rounded Rectangular Frame Dark-Grey Front Teal Side Acetate 52-19 mm",
+    "BRAND": "Specsavers"
   }
 ]
