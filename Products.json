@@ -1,5 +1,6 @@
 [
   {
+    "ID": "RAY_RB5169",
     "PRODNAME": "RB5169 Optics",
     "GRAPHNAME": "Black On Transparent White Cursive Ray-Ban",
     "COST": "179.90",
@@ -10,6 +11,7 @@
     "BRAND": "Ray-Ban"
   },
   {
+    "ID": "RAY_RB7551",
     "PRODNAME": "RB7551 Optics",
     "GRAPHNAME": "Arista Gold Cursive Ray-Ban",
     "COST": "226.10",
@@ -20,6 +22,7 @@
     "BRAND": "Ray-Ban"
   },
   {
+    "ID": "OAK_SURFACE_PLATE",
     "PRODNAME": "Surface Plate",
     "GRAPHNAME": "Faux Semi-Rimless Stylized O",
     "COST": "226.10",
