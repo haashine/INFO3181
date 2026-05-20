@@ -1,0 +1,32 @@
+[
+  {
+    "PRODNAME": "RB5169 Optics",
+    "GRAPHNAME": "Black On Transparent White Cursive Ray-Ban",
+    "COST": "179.90",
+    "MSRP": "257.00",
+    "QTYHAND": "2",
+    "QTYBACKORDER": "1",
+    "DESC": "Rectangle Full Frame Acetate 54-16 mm",
+    "BRAND": "Ray-Ban"
+  },
+  {
+    "PRODNAME": "RB7551 Optics",
+    "GRAPHNAME": "Arista Gold Cursive Ray-Ban",
+    "COST": "226.10",
+    "MSRP": "323.00",
+    "QTYHAND": "3",
+    "QTYBACKORDER": "2",
+    "DESC": "Rectangle Half Frame Metal 54-19 mm",
+    "BRAND": "Ray-Ban"
+  },
+  {
+    "PRODNAME": "Surface Plate",
+    "GRAPHNAME": "Faux Semi-Rimless Stylized O",
+    "COST": "226.10",
+    "MSRP": "323.00",
+    "QTYHAND": "3",
+    "QTYBACKORDER": "2",
+    "DESC": "Rectangle Semi-Rim Frame Titanium No Slip Grip 52-18 mm",
+    "BRAND": "Oakley"
+  }
+]
