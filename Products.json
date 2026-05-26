@@ -2,7 +2,7 @@
   {
     "ID": "RAY_RB5169",
     "PRODNAME": "RB5169 Optics",
-    "GRAPHNAME": "Ray-Ban RB5169 Optics Black On Transparent",
+    "GRAPHNAME": "Ray_RB5169_Optics.png",
     "COST": "179.90",
     "MSRP": "257.00",
     "QTYHAND": "2",
@@ -13,7 +13,7 @@
   {
     "ID": "RAY_RB7551",
     "PRODNAME": "RB7551 Optics",
-    "GRAPHNAME": "Ray-Ban RB7551 Optics Arista Gold",
+    "GRAPHNAME": "Ray_RB7551_Optics.png",
     "COST": "226.10",
     "MSRP": "323.00",
     "QTYHAND": "3",
@@ -24,7 +24,7 @@
   {
     "ID": "OAK_SURFACEPLATE",
     "PRODNAME": "Surface Plate",
-    "GRAPHNAME": "Oakley Surface Plate Matte Black",
+    "GRAPHNAME": "Oak_Surface_Plate.png",
     "COST": "269.50",
     "MSRP": "385.00",
     "QTYHAND": "5",
@@ -35,7 +35,7 @@
   {
     "ID": "OAK_HOLBROOK",
     "PRODNAME": "Holbrook",
-    "GRAPHNAME": "Oakley Holbrook Matte Black",
+    "GRAPHNAME": "Oak_Holbrook.png",
     "COST": "190.00",
     "MSRP": "210.00",
     "QTYHAND": "1",
@@ -46,7 +46,7 @@
   {
     "ID": "SPE_SHAUN",
     "PRODNAME": "SHAUN",
-    "GRAPHNAME": "Specsavers SHAUN Clear",
+    "GRAPHNAME": "Specsavers_SHAUN.jpg",
     "COST": "199.00",
     "MSRP": "249.00",
     "QTYHAND": "5",
@@ -57,7 +57,7 @@
   {
     "ID": "SPE_VICTORIAWF",
     "PRODNAME": "VICTORIA WF",
-    "GRAPHNAME": "Specsavers VICTORIA WF Teal",
+    "GRAPHNAME": "Specsavers_VICTORIA_WF.jpg",
     "COST": "199.00",
     "MSRP": "249.00",
     "QTYHAND": "4",
